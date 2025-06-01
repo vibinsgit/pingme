@@ -15,6 +15,7 @@
     "axios": "^1.9.0",
     "frontend": "file:",
     "lucide-react": "^0.511.0",
+    "pingme": "file:..",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-hot-toast": "^2.5.2",
